@@ -10,9 +10,9 @@
 
 ---
 
-🏥 5+ years in pharmaceutical drug development · GSK · INSERM  
+🏥 Experienced in pharmaceutical drug development · GSK · INSERM  
 🛠 Building open-source tools in R — Bayesian methods, reproducibility auditing, clinical trial design  
-📍 Belgium · Open to new opportunities
+📍 Belgium · Open to new collaborations and opportunities
 
 ---
 
