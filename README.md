@@ -11,7 +11,6 @@ Biostatistician working at the intersection of rigorous statistical methodology 
 -->
 ---
 
-🏥 Experienced in pharmaceutical drug development  
 🛠 Exploring & Building open-source tools in R  
 📍 Belgium · Open to collaborations!
 
