@@ -2,7 +2,7 @@
 
 # Hi, I'm Ndoh 👋
 
-Biostatistician working at the intersection of rigorous statistical methodology and reproducible, audit-ready science — across vaccine immunogenicity, translational research, and clinical development.
+Biostatistician working at the intersection of rigorous statistical methodology and reproducible, audit-ready science: across vaccine immunogenicity, translational research, and clinical development.
 
 Get to know me more ➡️ [here](https://ndohpenngit.github.io/np-website)
 <!--
@@ -13,7 +13,7 @@ Get to know me more ➡️ [here](https://ndohpenngit.github.io/np-website)
 ---
 
 🛠 Exploring & Building open-source tools in R  
-📍 Belgium · Open to collaborations!
+📍 Belgium
 
 
 </div>
