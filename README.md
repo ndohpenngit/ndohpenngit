@@ -12,7 +12,7 @@ Get to know me more ➡️ [here](https://ndohpenngit.github.io/np-website)
 -->
 ---
 
-🛠 Exploring & Building open-source tools in R  
+🛠 Also exploring & Building open-source tools in R  
 📍 Belgium
 
 
